@@ -57,7 +57,7 @@ const Hero = () => {
             <motion.button
               variants={textVariants}
               onClick={() =>
-                modeHandler("https://codepen.io/interrupt404/pen/xxeEGvj")
+                modeHandler("https://codepen.io/interrupt404/full/xxeEGvj")
               }
             >
               Contruction
@@ -65,7 +65,7 @@ const Hero = () => {
             <motion.button
               variants={textVariants}
               onClick={() =>
-                modeHandler("https://codepen.io/interrupt404/pen/xxeEGvj")
+                modeHandler("https://codepen.io/interrupt404/full/xxeEGvj")
               }
             >
               Destruction
