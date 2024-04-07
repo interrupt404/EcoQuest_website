@@ -40,7 +40,6 @@ npm i
 npm run dev
 ```
 4. Customize the website content and design according to your preferences.
-5. Deploy the website to GitHub Pages or your preferred hosting platform.
 
 ## Contribution Guidelines
 
