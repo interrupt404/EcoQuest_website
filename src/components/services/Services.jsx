@@ -100,7 +100,7 @@ const Services = () => {
         >
           <img src="img/boy2.png" alt="Chan" />
           <p>
-            UI/UX Developer
+            FrontEnd Developer
           </p>
           <button>Gaurav</button>
         </motion.div>
@@ -110,7 +110,7 @@ const Services = () => {
         >
           <img src="img/boy4.png" alt="Chan" />
           <p>
-           FrontEnd Developer
+           Game Developer
           </p>
           <button>Manish</button>
         </motion.div>
@@ -120,7 +120,7 @@ const Services = () => {
         >
           <img src="img/girl1.png" alt="Chan" />
           <p>
-           FrontEnd Developer
+           UI/UX Designer
           </p>
           <button>Anjali</button>
         </motion.div>
@@ -130,7 +130,7 @@ const Services = () => {
         >
           <img src="img/girl2.png" alt="Chan" />
           <p>
-            UI/UX Developer
+            UI/UX Designer
           </p>
           <button>Samya</button>
         </motion.div>
